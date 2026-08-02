@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# SQLite
+*.db
+
+# Uploaded resumes
+backend/app/uploads/*
+!backend/app/uploads/.gitkeep
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# OS
+.DS_Store
